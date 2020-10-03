@@ -19,3 +19,11 @@ changed title to Horiseon,
 changed footer to look more professional,
 bottom borders aligned,
 changed the colors.
+
+# Link to Deployed Application:
+
+https://lohelani.github.io/code-refactor/
+
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/70550481/94983362-ffd92000-050f-11eb-90b9-32da7af7e6d9.png)
